@@ -1,6 +1,6 @@
 import React from "react";
 import { mergeSort } from "./SortingAlgoritms";
-import './SortingVisualizer.css'
+import '../styles/SortingVisualizer.css'
 
 export default class SortingVisualizer extends React.Component {
     constructor(props) { // create constructor
